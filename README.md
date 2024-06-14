@@ -1,6 +1,6 @@
 # Clon de Pinterest con HTML5 y CSS3
 
-Este proyecto es una copia de la interfaz de Pinterest, creado puramente con HTML5 y CSS3. Se enfoca en replicar la aparencia visual de dicha plataforma ofreciendo una experiencia de navegación similar con funcionalidades básicas.
+Este proyecto es una _**copia de la interfaz de Pinterest**_, creado puramente con HTML5 y CSS3. Se enfoca en replicar la aparencia visual de dicha plataforma ofreciendo una experiencia de navegación similar con funcionalidades básicas.
 
 ### 📝 Características
 + **Interfaz de Usuario Intuituva:** Inspirada en [Pinterest](https://www.pinterest.es/), con una navegación fácil y accesible.
@@ -17,7 +17,7 @@ Este proyecto es una copia de la interfaz de Pinterest, creado puramente con HTM
 🔗 [link de vista previa](https://iniciodepinterest-omega.vercel.app/)
 
 #### 👩‍💻 Contacto
-**Paola Méndez**
+*Paola Guadalupe Méndez Cab*
 
 ✉️ paolamendezcab@gmail.com
 
