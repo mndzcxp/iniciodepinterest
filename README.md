@@ -14,6 +14,7 @@ Este proyecto es una copia de la interfaz de Pinterest, creado puramente con HTM
 
 ### Vista previa del proyecto
 ![Demo](/imagenes/vistaprevia.png)
+[link de vista previa](https://iniciodepinterest-omega.vercel.app/)
 
 #### 👩‍💻 Contacto
 Paola Méndez: [Mi LinkedIn](https://www.linkedin.com/in/paola-m%C3%A9ndez-b9530a313/)
